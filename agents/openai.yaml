@@ -1,0 +1,6 @@
+interface:
+  display_name: "IGP · Image Generation Principles"
+  short_description: "단독 이미지의 매력·의도·작법과 WHY를 실제 생성 입력으로 연결하는 기본 스킬"
+  default_prompt: "$image-generation-principles 를 적용해 내 의도를 작화 선택과 이미지 생성 입력으로 연결해줘."
+policy:
+  allow_implicit_invocation: true
