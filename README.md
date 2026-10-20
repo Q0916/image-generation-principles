@@ -55,7 +55,7 @@ IGP가 작화 판단과 이미지 입력을 맡고, 설치된 `ima2-gen` 지침�
 - [`SKILL.md`](SKILL.md): 기본 입구와 읽기 경로
 - [`작법 조사·체스터턴`](references/illustration-craft-and-chesterton.md): 조사와 도메인 지식을 실제 선택에 쓰는 이유·방법·출처
 - [`시각 연출`](references/visual-direction-renewal.md): 볼거리·관계·위계·참조·구현 자유
-- [`입력과 검토 패턴`](references/prompt-and-review-patterns.md): 필요에 따라 쓰는 모델 입력 구조와 교정
+- [`입력과 검토 패턴`](references/prompt-and-review-patterns.md): 필요에 따라 쓰는 모델 입력 구조와 교정 · 일반 사용자/작법 용어를 쓰는 사용자와의 시작 대화·생성 전 설명 예시
 - [`상세 원칙과 이유`](references/foundations-and-rationale.md): 장문 문맥·참조·배경·편집 등의 상세 WHY
 - [`근거와 가설의 범위`](references/transfer-and-evidence.md): 문서·전달·출력·사용자 선택의 증거 구분
 - [`선택형 파편 셀채색 실험`](references/fragmented-cel-style-lab.md): 요청된 경우만 읽는 `EXPERIMENT_UNRESOLVED` 예시
